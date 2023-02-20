@@ -27,7 +27,7 @@ python -m venv venv
 ```
 pip install -r requirements.txt
 ```
-
+Также необходимо в корне проекта создать файл .env, и добавить в него переменную VK_TOKEN.
 
 ## Обзор <a name="paragraph2"></a>
 ### Описание класса бот <a name="subparagraph1"></a>
